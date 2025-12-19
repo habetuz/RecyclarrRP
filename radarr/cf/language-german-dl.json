@@ -1,0 +1,28 @@
+{
+  "trash_id": "habetuz-cf-german-dl",
+  "trash_scores": {
+    "german": 20000
+  },
+  "name": "German DL",
+  "includeCustomFormatWhenRenaming": true,
+  "specifications": [
+    {
+      "name": "German",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": true,
+      "fields": {
+        "value": 4
+      }
+    },
+    {
+      "name": "Original Language",
+      "implementation": "LanguageSpecification",
+      "negate": false,
+      "required": true,
+      "fields": {
+        "value": -2
+      }
+    }
+  ]
+}
