@@ -30,14 +30,14 @@ quality_profiles:
           - WEBDL-2160p
           - WEBRip-2160p
           - HDTV-2160p
-      - name: 576p
-        qualities:
-          - Bluray-576p
+      - Bluray-576p
       - name: 480p
         qualities:
           - Bluray-480p
           - WEBDL-480p
           - WEBRip-480p
-      - name: DVD-R
-      - name: DVD
-      - name: SDTV
+      - name: LQ
+        qualities:
+          - DVD-R
+          - DVD
+          - SDTV
