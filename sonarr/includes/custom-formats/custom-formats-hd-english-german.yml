@@ -69,7 +69,7 @@ custom_formats:
       - 1efe8da11bfd74fbbcd4d8117ddb9213 # STAN
       - 9623c5c9cac8e939c1b9aedd32f640bf # SYFY
     assign_scores_to:
-      - name: HD Remux + Bluray + WEB (ENG + GER)
+      - name: HD (ENG + GER)
 
   - trash_ids:
       # Streaming Services
@@ -86,4 +86,4 @@ custom_formats:
       - e36a0ba1bc902b26ee40818a1d59b8bd # PMTP
       - c2863d2a50c9acad1fb50e53ece60817 # STAN
     assign_scores_to:
-      - name: HD Remux + Bluray + WEB (ENG + GER)
+      - name: HD (ENG + GER)
