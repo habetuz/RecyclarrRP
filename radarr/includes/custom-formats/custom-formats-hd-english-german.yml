@@ -2,12 +2,14 @@ custom_formats:
   - trash_ids:
       # German Audio
       - 86bc3115eb4e9873ac96904a4a68e19e # German
-      - habetuz-cf-english
-      - habetuz-cf-german-dl-undefined # German DL (undefined)
-      - habetuz-cf-german-dl # German DL
+      - habetuz-radarr-cf-english
+      - habetuz-radarr-cf-german-dl-undefined # German DL (undefined)
+      - habetuz-radarr-cf-german-dl # German DL
       - 4eadb75fb23d09dfc0a8e3f687e72287 # Not German or English
 
       # German HQ Release Groups
+      - 8608a2ed20c636b8a62de108e9147713 # German Remux Tier 01
+      - f9cf598d55ce532d63596b060a6db9ee # German Remux Tier 02
       - 54795711b78ea87e56127928c423689b # German Bluray Tier 01
       - 1bfc773c53283d47c68e535811da30b7 # German Bluray Tier 02
       - aee01d40cd1bf4bcded81ee62f0f3659 # German Bluray Tier 03
