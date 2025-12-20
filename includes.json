@@ -1,0 +1,13 @@
+{
+  "radarr": [
+    {
+      "template": "radarr/includes/custom-formats/custom-formats-hd-english-german.yml",
+      "id": "custom-formats-hd-english-german"
+    },
+    {
+      "template": "radarr/includes/quality-profiles/quality-profile-hd-english-german.yml",
+      "id": "quality-profile-hd-english-german"
+    }
+  ],
+  "sonarr": []
+}
