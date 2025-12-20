@@ -1,5 +1,5 @@
 quality_profiles:
-  - name: HD Remux + Bluray + WEB (ENG + GER)
+  - name: HD (ENG + GER)
     reset_unmatched_scores:
       enabled: true
     score_set: default
