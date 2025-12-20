@@ -1,7 +1,7 @@
 {
   "trash_id": "habetuz-cf-german-dl",
   "trash_scores": {
-    "german": 20000
+    "default": 20000
   },
   "name": "German DL",
   "includeCustomFormatWhenRenaming": true,
