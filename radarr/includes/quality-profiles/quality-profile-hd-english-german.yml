@@ -5,31 +5,37 @@ quality_profiles:
     score_set: default
     upgrade:
       allowed: true
-      until_quality: Remux-1080p
+      until_quality: 1080p
       until_score: 35000
     min_format_score: 0
     quality_sort: top
     qualities:
-      - name: Remux-1080p
-      - name: Bluray-1080p
-      - name: WEBDL-1080p
-      - name: WEBRip-1080p
-      - name: HDTV-1080p
-      - name: Bluray-720p
-      - name: WEBDL-720p
-      - name: WEBRip-720p
-      - name: HDTV-720p
-      - name: Remux-2160p
-      - name: Bluray-2160p
-      - name: WEB 2160p
+      - name: 1080p
         qualities:
+          - Remux-1080p
+          - Bluray-1080p
+          - WEBDL-1080p
+          - WEBRip-1080p
+          - HDTV-1080p
+      - name: 720p
+        qualities:
+          - Bluray-720p
+          - WEBDL-720p
+          - WEBRip-720p
+          - HDTV-720p
+      - name: 2160p
+        qualities:
+          - Remux-2160p
+          - Bluray-2160p
           - WEBDL-2160p
           - WEBRip-2160p
-      - name: HDTV-2160p
-      - name: Bluray-576p
-      - name: Bluray-480p
-      - name: WEB 480p
+          - HDTV-2160p
+      - name: 576p
         qualities:
+          - Bluray-576p
+      - name: 480p
+        qualities:
+          - Bluray-480p
           - WEBDL-480p
           - WEBRip-480p
       - name: DVD-R
