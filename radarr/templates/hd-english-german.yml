@@ -1,0 +1,15 @@
+radarr:
+  hd-english-german:
+    base_url: Put your Radarr URL here
+    api_key: Put your API key here
+
+    delete_old_custom_formats: true
+    media_naming:
+      folder: jellyfin-imdb
+      movie:
+        rename: true
+        standard: jellyfin-imdb
+    include:
+      - template: radarr-quality-definition-movie
+      - template: custom-formats-hd-english-german
+      - template: quality-profile-hd-english-german

@@ -1,0 +1,8 @@
+{
+  "radarr": [
+    {
+      "template": "radarr/templates/hd-english-german.yml",
+      "id": "hd-english-german"
+    }
+  ]
+}
